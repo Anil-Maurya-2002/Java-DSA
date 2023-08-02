@@ -21,7 +21,6 @@ public class Linear_Search {
         System.out.println("Enter no for Searching");
         int x = scr.nextInt();
 
-
         //   Output
         for (int i = 0; i < number.length; i++) {
             if (number[i] == x) {
