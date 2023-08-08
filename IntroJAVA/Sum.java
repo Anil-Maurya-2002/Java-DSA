@@ -5,9 +5,6 @@ class Sum{
                 int c =x + y;
                 int d = x - y;
                 float sum = x+ y;
-                System.out.println("C is " +c +" \nDiff is"+ d + " \nsum is " + sum);
-
-                
-                
+                System.out.println("C is " +c +" \nDiff is"+ d + " \nsum is " + sum);   
         }
 }
