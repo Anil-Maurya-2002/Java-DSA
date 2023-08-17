@@ -12,6 +12,7 @@ public class Stack_Collection_Frameworks {
         st.push(5);
 //        st.size();
 
+        
         while(!st.isEmpty()) {
 //            System.out.println(st.pop());
             System.out.println(st.peek());
